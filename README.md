@@ -1,5 +1,9 @@
 # generator-hugo [![Build Status](https://secure.travis-ci.org/sondr3/generator-hugo.png?branch=master)](https://travis-ci.org/sondr3/generator-hugo)
 
+[![Coverage Status](https://coveralls.io/repos/sondr3/generator-hugo/badge.png)](https://coveralls.io/r/sondr3/generator-hugo)
+[![Dependency Status](https://david-dm.org/sondr3/generator-hugo.png?theme=shields.io)](https://david-dm.org/sondr3/generator-hugo)
+[![devDependency Status](https://david-dm.org/sondr3/generator-hugo/dev-status.png)](https://david-dm.org/sondr3/generator-hugo#info=devDependencies)
+
 > [Yeoman](http://yeoman.io) generator
 
 
